@@ -1,6 +1,16 @@
 # Pandas_Tricks
 25 Python Pandas tricks to work faster and write better pandas code
 
+## DataSet Links
+
+- drinks = http://bit.ly/drinksbycountry
+- movies = http://bit.ly/imdbratings
+- orders = http://bit.ly/chiporders
+- stocks = http://bit.ly/smallstocks
+- titanic = http://bit.ly/kaggletrain
+- ufo = http://bit.ly/uforeports
+
+## Tasks
 <ol>
   <li>Show installed versions</li>
   <li>Create an example DataFrame</li>
