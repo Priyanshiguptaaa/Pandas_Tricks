@@ -27,6 +27,6 @@
   <li>Convert continuous data into categorical data</li>
   <li>Change display options</li>
   <li>Style a DataFrame</li>
-  <li>Profile a DataFrame</li>
+  <li>Bonus: Profile a DataFrame</li>
 </ol>
 
